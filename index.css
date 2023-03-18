@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Fira+Sans:wght@300;400&family=Inter:wght@100;400;600&family=Oswald:wght@300&family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pridi:wght@300&family=Rubik&display=swap');
 html,
 body {
     font-size: 16px;
@@ -11,7 +12,7 @@ a {
 }
 
 body {
-    background-image: url('body-background.png');
+    background-image: url('./images/body-background.png');
     /* background-repeat: no-repeat; */
     background-size: cover;
     color: white!important;
@@ -235,7 +236,7 @@ body {
 }
 
 .sub-header-1 p:nth-child(1) {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 50px;
     width: 19.5em;
 }
@@ -243,7 +244,7 @@ body {
 .sub-header-1 p:nth-child(2) {
     font-size: 20px;
     width: 30em;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Pridi', serif;
     font-weight: 300;
 }
 

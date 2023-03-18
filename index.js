@@ -16,10 +16,11 @@ window.addEventListener('scroll', function() {
     // ===========================
     // LOADING SCREEN
     // ===========================
+    $('#loading-screen').fadeOut('slow')
 
-window.onload = function loading() {
-        $('#loading-screen').fadeOut('slow')
-    }
+// window.onload = function loading() {
+//     console.log("hell")
+//     }
     // ===========================
     // FAQs
     // ===========================
